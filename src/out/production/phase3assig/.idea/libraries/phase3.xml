@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="phase3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/phase3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
